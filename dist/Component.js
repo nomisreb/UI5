@@ -1,0 +1,2 @@
+sap.ui.define(["sap/ui/core/UIComponent","sap/ui/model/json/JSONModel"],function(e){"use strict";return e.extend("sap.ui.demo.fcl.Component",{metadata:{manifest:"json"},init:function(){var t;e.prototype.init.apply(this,arguments);t=new JSONModel(sap.ui.require.toUrl("sap/ui/demo/mock/products.json"));t.setSizeLimit(1e3);this.setModel(t,"products")}})});
+//# sourceMappingURL=Component.js.map

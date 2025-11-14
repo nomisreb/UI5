@@ -1,0 +1,21 @@
+{
+  "ProductCollection": [
+    {
+      "ProductId": "P0001",
+      "Name": "Screw",
+      "Price": 1.23,
+      "CurrencyCode": "EUR"
+    },
+    {
+      "ProductId": "P0002",
+      "Name": "Hinge",
+      "Price": 4.56,
+      "CurrencyCode": "EUR"
+    }
+  ],
+  "ProductCollectionStats": {
+    "Counts": {
+      "Total": 2
+    }
+  }
+}
