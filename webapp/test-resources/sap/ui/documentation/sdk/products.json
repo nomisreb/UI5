@@ -2,15 +2,21 @@
   "ProductCollection": [
     {
       "ProductId": "P0001",
-      "Name": "Screw",
+      "Name": "Screw1",
       "Price": 1.23,
-      "CurrencyCode": "EUR"
+      "CurrencyCode": "EUR",
+      "ProductPicUrl": "images/products/Screw.png",
+      "MainCategory": "Blum",
+      "Category": "Screws"
     },
     {
       "ProductId": "P0002",
-      "Name": "Hinge",
+      "Name": "Hinge1",
       "Price": 4.56,
-      "CurrencyCode": "EUR"
+      "CurrencyCode": "EUR",
+      "ProductPicUrl": "images/products/Hinge.png",
+      "MainCategory": "Blum",
+      "Category": "Hinges"
     }
   ],
   "ProductCollectionStats": {
